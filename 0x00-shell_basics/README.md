@@ -1,1 +1,2 @@
-# Display the contents list of your current directory.
+# Display the absolute path name of the current working directory
+# Display the contents list of your current directory.i
